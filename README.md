@@ -2,7 +2,7 @@
 
 Config and prompts for a Claude Code agent that reads resolved Jira tickets and keeps Confluence runbooks current — automatically.
 
-Built and documented by a TPM as part of the [Substack series on AI-first program management](#).
+Built and documented as part of the [Substack series on AI-first program management](#).
 
 ---
 
